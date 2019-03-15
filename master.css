@@ -11,23 +11,7 @@ body {
   background-repeat: no-repeat;
   z-index: 1;
 }
-.navbar{
-  text-transform: uppercase;
-  background-color: #191919;
-}
-.navbar-brand img{
-  margin: 0;
-  height: 2.4rem;
-}
-.footer .row{
-  background-color: #191919;
-  padding: 1rem 2rem 3rem;
-  color: white;
-}
-.footer img{
-  height: 2rem;
-  margin: 1.5rem 0rem;
-}
+
 .flink{
   color: white;
 }
